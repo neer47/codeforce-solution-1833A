@@ -1,1 +1,1 @@
-# codeforce-solution-1833A
+This is my first Repository.
